@@ -3,7 +3,7 @@ Sample Matlab code and data for Bayesian Traction Force Microscopy in real space
 Yunfei Huang and Benedikt Sabass, Forschungszentrum Jülich, 2018.
 Reference: Huang et al. https://arxiv.org/abs/1810.05848.
 
-After downloading, launch the demo from the Matlab command line by entering "test_example"
+After downloading, launch the demo from the Matlab command line by entering "test_example". Depending on your machine, the calculations can take a few minutes to complete.
 
 The code requires the free Matlab package "Regularization tools" by P.C.
 Hansen Math. Model. Comput.(1998) that can be found at
